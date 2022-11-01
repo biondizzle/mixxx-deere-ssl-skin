@@ -3,7 +3,7 @@
 ## Why am I doing this?
   - Serato sunset their Scratch Live software for some licensed bloatware "Serato Pro"
   - I love my SL1 and SL2 boxes and the drivers keep getting further and further away from working propperly on newer Windows and Mac Operating Systems but works fine on Linux
-  - I have a very expensive Rane Sixty Four mixer where the drivers no longer work on newer Windows and Mac Operating Systems but works fine on Linux
+  - I have a very expensive Rane Sixty Four mixer where the drivers no longer work on newer Windows and Mac Operating Systems but works fine on Linux (with hacky audio routing but better than nothing)
   - I hate that Scratch Live no longer works on newer Windows and Mac Operating Systems
   - I have a Pioneer controller that is locked to Rekordbox software which we'll call "clunky" to put it lightly
   - Mixxx is incredible OSS available for all Operating Systems and allows me to use whatever hardware I please
